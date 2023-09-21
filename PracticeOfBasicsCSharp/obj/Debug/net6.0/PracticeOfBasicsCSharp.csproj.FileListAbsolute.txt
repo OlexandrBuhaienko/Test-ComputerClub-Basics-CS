@@ -1,0 +1,15 @@
+D:\WORK\PracticeOfBasicsCSharp\PracticeOfBasicsCSharp\bin\Debug\net6.0\PracticeOfBasicsCSharp.exe
+D:\WORK\PracticeOfBasicsCSharp\PracticeOfBasicsCSharp\bin\Debug\net6.0\PracticeOfBasicsCSharp.deps.json
+D:\WORK\PracticeOfBasicsCSharp\PracticeOfBasicsCSharp\bin\Debug\net6.0\PracticeOfBasicsCSharp.runtimeconfig.json
+D:\WORK\PracticeOfBasicsCSharp\PracticeOfBasicsCSharp\bin\Debug\net6.0\PracticeOfBasicsCSharp.dll
+D:\WORK\PracticeOfBasicsCSharp\PracticeOfBasicsCSharp\bin\Debug\net6.0\PracticeOfBasicsCSharp.pdb
+D:\WORK\PracticeOfBasicsCSharp\PracticeOfBasicsCSharp\obj\Debug\net6.0\PracticeOfBasicsCSharp.csproj.AssemblyReference.cache
+D:\WORK\PracticeOfBasicsCSharp\PracticeOfBasicsCSharp\obj\Debug\net6.0\PracticeOfBasicsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\PracticeOfBasicsCSharp\PracticeOfBasicsCSharp\obj\Debug\net6.0\PracticeOfBasicsCSharp.AssemblyInfoInputs.cache
+D:\WORK\PracticeOfBasicsCSharp\PracticeOfBasicsCSharp\obj\Debug\net6.0\PracticeOfBasicsCSharp.AssemblyInfo.cs
+D:\WORK\PracticeOfBasicsCSharp\PracticeOfBasicsCSharp\obj\Debug\net6.0\PracticeOfBasicsCSharp.csproj.CoreCompileInputs.cache
+D:\WORK\PracticeOfBasicsCSharp\PracticeOfBasicsCSharp\obj\Debug\net6.0\PracticeOfBasicsCSharp.dll
+D:\WORK\PracticeOfBasicsCSharp\PracticeOfBasicsCSharp\obj\Debug\net6.0\refint\PracticeOfBasicsCSharp.dll
+D:\WORK\PracticeOfBasicsCSharp\PracticeOfBasicsCSharp\obj\Debug\net6.0\PracticeOfBasicsCSharp.pdb
+D:\WORK\PracticeOfBasicsCSharp\PracticeOfBasicsCSharp\obj\Debug\net6.0\PracticeOfBasicsCSharp.genruntimeconfig.cache
+D:\WORK\PracticeOfBasicsCSharp\PracticeOfBasicsCSharp\obj\Debug\net6.0\ref\PracticeOfBasicsCSharp.dll
